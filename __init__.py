@@ -7,7 +7,7 @@
 # ---------------------------------------------------------------------
 
 import VAE.create_model
-import sys
+import VAE.microstates
 
 from .create_model import vae
 
