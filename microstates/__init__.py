@@ -5,9 +5,6 @@
 # ---------------------------------------------------------------------
 # Machine learning package
 # ---------------------------------------------------------------------
+from .microstates import *
 
-import VAE.create_model
-import sys
-
-from .create_model import vae
 
